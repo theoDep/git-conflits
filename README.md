@@ -1,3 +1,3 @@
-# git-conflits
+REMOTE
 
 Blablabla
